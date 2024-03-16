@@ -36,7 +36,7 @@ return (
       <button className='bg-rose-50 p-2 rounded'><Link to="/order-online">🛒</Link></button>
       {/* {userlogged ? null : <LogoutBtn />} */}
        <Button className='bg-rose-700 rounded '><Link to="/login">Login</Link></Button> 
-       <Button className='bg-rose-700 rounded '><Link to="/signup">signup</Link></Button> 
+       <Button className='bg-rose-700 rounded '><Link to="/signup">sign up</Link></Button> 
     </div>
     {/* <SidebarNav setmenu={setmenu} menu={menu} /> */}
   </nav>
